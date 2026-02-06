@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "id": "vrf_1759424641046",
+      "status": "suspicious",
+      "confidence": 0.97,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-82590",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:04:01.046448Z"
+    },
+    {
+      "id": "vrf_1759424640220",
+      "status": "suspicious",
+      "confidence": 0.99,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-80047",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:04:00.220054Z"
+    },
+    {
+      "id": "vrf_1759424639450",
+      "status": "suspicious",
+      "confidence": 0.8,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-42257",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:03:59.450723Z"
+    },
+    {
+      "id": "vrf_1759424638547",
+      "status": "suspicious",
+      "confidence": 0.97,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-55124",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:03:58.547933Z"
+    },
+    {
+      "id": "vrf_1759424553836",
+      "status": "suspicious",
+      "confidence": 0.84,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-47832",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:02:33.836455Z"
+    },
+    {
+      "id": "vrf_1759424523870",
+      "status": "suspicious",
+      "confidence": 0.99,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-59541",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:02:03.870993Z"
+    },
+    {
+      "id": "vrf_1759424437699",
+      "status": "suspicious",
+      "confidence": 0.99,
+      "reasons": [
+        "Institutional record found",
+        "Certificate verified in blockchain ledger",
+        "Student name matches blockchain record",
+        "Institution name matches blockchain record",
+        "Year matches blockchain record",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-57441",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-88192"
+      },
+      "blockchain_verified": true,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T17:00:37.699998Z"
+    },
+    {
+      "id": "vrf_1759418141266",
+      "status": "suspicious",
+      "confidence": 0.01,
+      "reasons": [
+        "No exact institutional record match",
+        "Certificate not found in blockchain ledger",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-25549",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "blockchain_verified": false,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T15:15:41.266990Z"
+    },
+    {
+      "id": "vrf_1759417670465",
+      "status": "suspicious",
+      "confidence": 0.18,
+      "reasons": [
+        "No exact institutional record match",
+        "Certificate not found in blockchain ledger",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-65183",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "blockchain_verified": false,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T15:07:50.465062Z"
+    },
+    {
+      "id": "vrf_1759417011754",
+      "status": "suspicious",
+      "confidence": 0.02,
+      "reasons": [
+        "No exact institutional record match",
+        "Certificate not found in blockchain ledger",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-12629",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "blockchain_verified": false,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T14:56:51.755001Z"
+    },
+    {
+      "id": "vrf_1759416903244",
+      "status": "suspicious",
+      "confidence": 0.06,
+      "reasons": [
+        "No exact institutional record match",
+        "Certificate not found in blockchain ledger",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-70101",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "blockchain_verified": false,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T14:55:03.244275Z"
+    },
+    {
+      "id": "vrf_1759416103394",
+      "status": "suspicious",
+      "confidence": 0.3,
+      "reasons": [
+        "No exact institutional record match",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-22960",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "file_hash": "5f454b5b8a5c2707f9c69da2a378c337f6a70b7ce47374b29873aa84d3959373",
+      "created_at": "2025-10-02T14:41:43.394284Z"
+    },
+    {
+      "id": "vrf_1759212142937",
+      "status": "suspicious",
+      "confidence": 0.48,
+      "reasons": [
+        "No exact institutional record match",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-63952",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "file_hash": "6b9d799499099ff2d8ec1ff40b38c2e9308cd86dd4d10d1363f08405dd54ee9e",
+      "created_at": "2025-09-30T06:02:22.937601Z"
+    },
+    {
+      "id": "vrf_1759155062025",
+      "status": "suspicious",
+      "confidence": 0.2,
+      "reasons": [
+        "No exact institutional record match",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-21471",
+        "raw_text_preview": "NO_OCR_AVAILABLE \n FILEPATH=download.jpg"
+      },
+      "institution_match": null,
+      "file_hash": "6b9d799499099ff2d8ec1ff40b38c2e9308cd86dd4d10d1363f08405dd54ee9e",
+      "created_at": "2025-09-29T14:11:02.025723Z"
+    },
+    {
+      "id": "vrf_1758730286846",
+      "status": "suspicious",
+      "confidence": 0.64,
+      "reasons": [
+        "No exact institutional record match"
+      ],
+      "extracted": {
+        "name": "it GRADUATION CERTIFICATE 1;",
+        "institution": ": Indiana State University | Faculty of Journalism g",
+        "year": 2024,
+        "certificate_id": "itGRADUATIONCERTIFICATE1",
+        "raw_text_preview": ": mcococnenanenenenenerencaae Oe MeaneDansnEDeD Teena Ob eLeTOCOcD Tema : \n g & \n it GRADUATION CERTIFICATE 1; \n Hi | & \n g ri \n : Indiana State University | Faculty of Journalism g \n ; ‘ \n : ri \n $ Certificate is presented to: § \n ‘ : ‘ \n : Josephine Hudson ; \n + \n 4 For successful completion of a Bachelor's Degree in Journalism. In recognition ! \n 8 of outstanding achievements in the field of journalism, professionalism and dedication § \n % to freedom of speech. : \n & \n 3 | Fi \n ‘| | : \n & \n ‘"
+      },
+      "institution_match": null,
+      "file_hash": "1d477288302fb8330e44abe9a8cb70c0544f8e3964050699239639b5ca38d76f",
+      "created_at": "2025-09-24T16:11:26.846996Z"
+    },
+    {
+      "id": "vrf_1758729592458",
+      "status": "suspicious",
+      "confidence": 0.2,
+      "reasons": [
+        "No exact institutional record match",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-25922",
+        "raw_text_preview": "NO_OCR_AVAILABLE\nFILEPATH=medium_349_Graduation_professional_grey_landscape_b6e626a991.jpg"
+      },
+      "institution_match": null,
+      "file_hash": "1d477288302fb8330e44abe9a8cb70c0544f8e3964050699239639b5ca38d76f",
+      "created_at": "2025-09-24T15:59:52.458639Z"
+    },
+    {
+      "id": "vrf_1758729439094",
+      "status": "suspicious",
+      "confidence": 0.35,
+      "reasons": [
+        "No exact institutional record match",
+        "Name could not be reliably extracted",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "Unknown Name",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-34631",
+        "raw_text_preview": "NO_OCR_AVAILABLE\nFILEPATH=certificate.png"
+      },
+      "institution_match": null,
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:57:19.094271Z"
+    },
+    {
+      "id": "vrf_1758729084690",
+      "status": "suspicious",
+      "confidence": 0.51,
+      "reasons": [
+        "No exact institutional record match",
+        "Institution not clearly identified",
+        "Graduation year missing"
+      ],
+      "extracted": {
+        "name": "=certificate.png",
+        "institution": "Unknown Institution",
+        "year": 0,
+        "certificate_id": "AUTO-65551",
+        "raw_text_preview": "NO_OCR_AVAILABLE\nFILE_NAME=certificate.png"
+      },
+      "institution_match": null,
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:51:24.690515Z"
+    },
+    {
+      "id": "vrf_1758728137072",
+      "status": "suspicious",
+      "confidence": 0.63,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:35:37.072305Z"
+    },
+    {
+      "id": "vrf_1758728094965",
+      "status": "valid",
+      "confidence": 0.78,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:34:54.965503Z"
+    },
+    {
+      "id": "vrf_1758727091047",
+      "status": "valid",
+      "confidence": 0.79,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:18:11.047242Z"
+    },
+    {
+      "id": "vrf_1758727020474",
+      "status": "valid",
+      "confidence": 0.8,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-24T15:17:00.474721Z"
+    },
+    {
+      "id": "vrf_1758648819899",
+      "status": "valid",
+      "confidence": 0.8,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-23T17:33:39.899925Z"
+    },
+    {
+      "id": "vrf_1758648718608",
+      "status": "valid",
+      "confidence": 0.86,
+      "reasons": [
+        "Institutional record found"
+      ],
+      "extracted": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001",
+        "raw_text_preview": "Certificate\n\tName: Jane Doe\n\tInstitution: Example University\n\tYear: 2021\n\tCertificate ID: EXU-2021-0001\n\tFile: certificate.png"
+      },
+      "institution_match": {
+        "name": "Jane Doe",
+        "institution": "Example University",
+        "year": 2021,
+        "certificate_id": "EXU-2021-0001"
+      },
+      "file_hash": "d7fc33394215e522a21ead9e121eeb1934cfece8c04241828952a3abe3df2f57",
+      "created_at": "2025-09-23T17:31:58.608696Z"
+    }
+  ]
+}
