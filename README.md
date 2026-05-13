@@ -24,7 +24,7 @@ This system eliminates fake certificates by ensuring that every certificate is s
 * Frontend: HTML, CSS, JavaScript
 * Backend: Python (Flask)
 * Blockchain: Ethereum (Smart Contracts - Solidity)
-* Database: MongoDB / MySQL (Optional)
+* Database: MongoDB / MySQL
 * Tools: VS Code, Git, GitHub
 
 ---
